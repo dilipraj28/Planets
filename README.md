@@ -13,4 +13,4 @@ HTML, CSS and JavaScript
 
 ## Screenshots
 
-![App Screenshot](https://github.com/dilipraj01/just_like_that/blob/main/webPage_screenShot.png)
+![App Screenshot](https://github.com/dilipraj28/just_like_that/blob/main/webPage_screenShot.png)
