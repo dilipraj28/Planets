@@ -14,3 +14,4 @@ HTML, CSS and JavaScript
 ## Screenshots
 
 ![App Screenshot](https://github.com/dilipraj28/Planets/blob/master/webPage_screenShot.png)
+## Thankyou, hope you enjoy it !
